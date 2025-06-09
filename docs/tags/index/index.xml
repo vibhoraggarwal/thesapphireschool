@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Up Business</title>
-    <link>https://vibhoraggarwal.github.io/thesapphirepreschool/tags/index/</link>
-    <description>Recent content in Index on Up Business</description>
+    <title>Index on Hugo Fresh Theme</title>
+    <link>http://something-fresh.org/tags/index/</link>
+    <description>Recent content in Index on Hugo Fresh Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://vibhoraggarwal.github.io/thesapphirepreschool/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://something-fresh.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>http://something-fresh.org/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://something-fresh.org/post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

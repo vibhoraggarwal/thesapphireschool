@@ -1,11 +1,7 @@
-enabled: true
+enabled: false
 id: "brands"
 
 content:
-  title: "We work with customers brands and startups "
+  title: "We help create a good base for your kids "
   items:
     - "images/brands-samsumg.png"
-    - "images/brands-google.png"
-    - "images/brands-adobe.png"
-    - "images/brands-spotify.png"
-    - "images/brands-dropbox.png"
