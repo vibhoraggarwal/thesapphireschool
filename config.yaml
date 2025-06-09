@@ -1,4 +1,4 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://vibhoraggarwal.github.io/thesapphirepreschool/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
@@ -9,9 +9,13 @@ title: "Up Business"
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
-  images: 
+  title: "The Sapphire Preschool"
+  subtitle: "Empowering Young Minds"
+  description:
+    "We provide a nurturing environment for children to learn, grow, and thrive.
+    Our preschool focuses on holistic development through play-based learning,
+    fostering creativity, curiosity, and confidence in every child."
+  images:
     - "images/hero-image.png"
 
   logo: "arrow-up.png"
